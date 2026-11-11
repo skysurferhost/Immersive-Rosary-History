@@ -1,0 +1,11 @@
+/** Irregular terrain without a rectangular slab or visible vertical edge. */
+export function createTerrain(T,{radius=7,depth=5,y=-3,z=0,kind='earth'}={}){
+ const rings=20,sectors=80,positions=[],uv=[],indices=[];
+ for(let r=0;r<=rings;r++)for(let j=0;j<=sectors;j++){const t=j/sectors*Math.PI*2,f=r/rings,edge=1+.055*Math.sin(t*5)+.035*Math.cos(t*9),x=Math.cos(t)*radius*f*edge,d=Math.sin(t)*depth*f*edge,h=kind==='earth'?.10*Math.sin(x*.9)*Math.cos(d*.7)*f+.06*Math.sin(d*1.8):.012*Math.sin(x*3)*Math.cos(d*2);positions.push(x,h,d);uv.push(j/sectors,f);if(r<rings&&j<sectors){const a=r*(sectors+1)+j,b=a+sectors+1;indices.push(a,b,a+1,b,b+1,a+1);}}
+ const geo=new T.BufferGeometry();geo.setAttribute('position',new T.Float32BufferAttribute(positions,3));geo.setAttribute('uv',new T.Float32BufferAttribute(uv,2));geo.setIndex(indices);geo.computeVertexNormals();
+ const mat=new T.MeshStandardMaterial({color:kind==='earth'?0x616047:0x8d8979,roughness:1,transparent:true,depthWrite:false,side:T.DoubleSide});
+ mat.onBeforeCompile=s=>{s.vertexShader='varying vec3 groundPoint; varying float groundRadius;\n'+s.vertexShader;s.vertexShader=s.vertexShader.replace('#include <begin_vertex>','#include <begin_vertex>\ngroundPoint=position;groundRadius=uv.y;');s.fragmentShader='varying vec3 groundPoint; varying float groundRadius;\n'+s.fragmentShader;
+ const stone=kind==='stone'?`vec2 tile=vec2(groundPoint.x+mod(floor(groundPoint.z/.65),2.0)*.55,groundPoint.z)/vec2(1.1,.65);vec2 seam=abs(fract(tile)-.5);float mortar=smoothstep(.45,.49,max(seam.x,seam.y));diffuseColor.rgb*=mix(1.0,.62,mortar);`:'';
+ s.fragmentShader=s.fragmentShader.replace('#include <color_fragment>',`#include <color_fragment>\nfloat grain=.92+.06*sin(groundPoint.x*21.0+sin(groundPoint.z*11.0))+.04*cos(groundPoint.z*31.0);diffuseColor.rgb*=grain;${stone}\nfloat contact=exp(-pow(groundPoint.x/3.8,2.0)-pow((groundPoint.z-1.4)/.65,2.0));diffuseColor.rgb*=1.0-.20*contact;diffuseColor.a*=1.0-smoothstep(.66,1.0,groundRadius);`);};mat.customProgramCacheKey=()=>kind;
+ const mesh=new T.Mesh(geo,mat);mesh.name=kind==='earth'?'Feathered irregular countryside':'Feathered domestic limestone';mesh.position.set(0,y,z);mesh.userData.terrain=true;return mesh;
+}

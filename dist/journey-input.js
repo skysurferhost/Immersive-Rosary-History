@@ -1,0 +1,10 @@
+/** Journey gestures include chapter text; panels and active viewers keep their own input. */
+export function installJourneyInput({surface,mode,isPanelOpen,advance,tap,height,diagnostic}){
+ const excluded='header,nav,dialog,aside,#rosary-tools,#map-controls,#luminous-medallions,#luminous-detail,[data-native-scroll]';let gesture=null,suppressUntil=0;
+ const reset=()=>{if(gesture?.owner?.hasPointerCapture?.(gesture.id))gesture.owner.releasePointerCapture(gesture.id);gesture=null;};
+ surface.addEventListener('pointerdown',e=>{if(mode()!=='journey'||isPanelOpen()||e.button!==0||e.target.closest(excluded))return;if(gesture){reset();suppressUntil=Date.now()+600;return;}gesture={id:e.pointerId,x:e.clientX,y:e.clientY,lastY:e.clientY,owner:e.target,active:false};},true);
+ surface.addEventListener('pointermove',e=>{const g=gesture;if(!g||g.id!==e.pointerId)return;if(mode()!=='journey'||isPanelOpen()){reset();return;}const dx=e.clientX-g.x,dy=e.clientY-g.y;if(!g.active){if(Math.hypot(dx,dy)<9)return;if(Math.abs(dx)>Math.abs(dy)*1.2){reset();return;}g.active=true;g.owner.setPointerCapture?.(g.id);}if(e.cancelable)e.preventDefault();advance(-(e.clientY-g.lastY)/Math.max(230,height()*.55));g.lastY=e.clientY;diagnostic?.(e.pointerType||'mouse');},{capture:true,passive:false});
+ surface.addEventListener('touchmove',e=>{const g=gesture;if(!g||mode()!=='journey'||isPanelOpen()||e.touches.length!==1)return;const t=e.touches[0];if(Math.abs(t.clientY-g.y)>=Math.abs(t.clientX-g.x)&&e.cancelable)e.preventDefault();},{capture:true,passive:false});
+ surface.addEventListener('pointerup',e=>{const g=gesture;if(!g||g.id!==e.pointerId)return;if(g.active){suppressUntil=Date.now()+500;if(e.cancelable)e.preventDefault();}else if(e.target.id==='world')tap(e);reset();},true);
+ surface.addEventListener('pointercancel',reset,true);surface.addEventListener('click',e=>{if(Date.now()<suppressUntil&&mode()==='journey'&&!e.target.closest(excluded)){e.preventDefault();e.stopImmediatePropagation();}},true);return {reset};
+}
