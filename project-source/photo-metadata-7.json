@@ -1,0 +1,30 @@
+[
+  {
+    "id": "shrine-st-peters",
+    "also": [
+      "rome"
+    ],
+    "file": "shrine-st-peters-photo.jpg",
+    "alt": "Facade of Saint Peter’s Basilica viewed from Saint Peter’s Square",
+    "title": "Facade of St. Peter's Basilica",
+    "author": "Wknight94",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Facade_of_St._Peter%27s_Basilica.jpg",
+    "changes": "1280-pixel Wikimedia thumbnail; no content alteration. Display may crop to fit."
+  },
+  {
+    "id": "shrine-fatima",
+    "also": [
+      "fatima"
+    ],
+    "file": "shrine-fatima-photo.jpg",
+    "alt": "Basilica of Our Lady of the Rosary at Fátima, viewed from the side through trees",
+    "title": "Sanctuary of Fátima, Fatima Sanktuarium",
+    "author": "LLEW",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanctuary_of_F%C3%A1tima,_Fatima_Sanktuarium.jpg",
+    "changes": "1280-pixel Wikimedia thumbnail; no content alteration. Display may crop to fit."
+  }
+]

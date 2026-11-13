@@ -2,7 +2,7 @@ export const chapters = [
   {
     "title": "Origins of the Rosary Prayer",
     "date": "Thematic prologue · Early roots to the Middle Ages",
-    "body": "Christian prayer was nourished by the Psalms and repeated invocations long before the Rosary took its familiar form. Medieval prayer counters helped worshippers count Our Fathers. These are roots of a developing devotion—not evidence of a complete Rosary in the first centuries.",
+    "body": "Christian prayer was nourished by the Psalms and repeated invocations. Medieval prayer counters helped worshippers count Our Fathers, while Marian devotion and meditation on Christ’s life gradually shaped the Rosary.",
     "source": "Catholic Encyclopedia · The Rosary",
     "url": "https://www.newadvent.org/cathen/13184b.htm",
     "kind": "manuscript"
@@ -10,7 +10,7 @@ export const chapters = [
   {
     "title": "The Biblical Origins of the Hail Mary",
     "date": "Biblical foundations · Before the birth of Christ",
-    "body": "Returning to the biblical foundations, Gabriel’s greeting (Luke 1:28) and Elizabeth’s blessing (Luke 1:42) meet in the Hail Mary. Over the centuries, these biblical words became a prayer joined to the Church’s petition for Mary’s intercession. Its center is Jesus, the blessed fruit of her womb.",
+    "body": "Gabriel’s greeting (Luke 1:28) and Elizabeth’s blessing (Luke 1:42) meet in the Hail Mary. Over the centuries, these biblical words became a prayer joined to the Church’s petition for Mary’s intercession. Its center is Jesus, the blessed fruit of her womb.",
     "source": "Paul VI · Marialis Cultus, 44–49",
     "url": "https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19740202_marialis-cultus.html",
     "kind": "painting"
@@ -18,7 +18,7 @@ export const chapters = [
   {
     "title": "St. Dominic and the Dominican Tradition",
     "date": "c. 1170–1221 · Later devotional tradition",
-    "body": "Catholic tradition associates St. Dominic with receiving the Rosary from Our Lady. This beloved devotional account should be distinguished from a documented thirteenth-century origin for its complete modern form. Dominicans became enduring guardians and promoters of the prayer.",
+    "body": "Catholic tradition associates St. Dominic with receiving the Rosary from Our Lady. Dominicans became enduring guardians and promoters of this prayer, inviting the faithful to contemplate Christ with Mary.",
     "source": "Order of Preachers · Rosary Confraternity; Catholic Encyclopedia",
     "url": "https://www.op.org/confraternity-of-the-most-holy-rosary/",
     "kind": "dominic"
@@ -58,7 +58,7 @@ export const chapters = [
   {
     "title": "The Rosary Across the Centuries",
     "date": "17th–19th centuries · Thematic survey",
-    "body": "Confraternities, families, religious communities, and preachers carried the Rosary through changing societies. Its beads made a contemplative prayer portable: repeated words accompanying meditation on Christ. The history of its spread is distinct from the much earlier history of its formation.",
+    "body": "Confraternities, families, religious communities, and preachers carried the Rosary through changing societies. Its beads made a contemplative prayer portable: familiar words accompanying meditation on Christ.",
     "source": "Catholic Encyclopedia · The Rosary; Order of Preachers",
     "url": "https://www.newadvent.org/cathen/13184b.htm",
     "kind": "beads"
@@ -74,8 +74,8 @@ export const chapters = [
   {
     "title": "Our Lady of Fátima",
     "date": "1917 · Portugal",
-    "body": "Lúcia dos Santos, Francisco Marto, and Jacinta Marto reported Marian apparitions calling for daily Rosary prayer and peace. The shrine preserves their accounts. Recognized private revelation can help Christians live the Gospel; it does not add to the deposit of faith or replace Christ’s definitive Revelation.",
-    "source": "Shrine of Fátima · Apparition narratives; Catechism §67",
+    "body": "The Sanctuary of Our Lady of Fátima, located at Cova da Iria in Portugal, commemorates the reported apparitions of the Blessed Virgin Mary to Lúcia dos Santos, Francisco Marto, and Jacinta Marto in 1917. Their accounts are documented through Sister Lúcia's memoirs, early interviews, and historical records preserved and published by the sanctuary. The messages emphasized daily Rosary prayer, conversion, and peace.",
+    "source": "Shrine of Fátima · Apparition narratives",
     "url": "https://www.fatima.pt/en/pages/narrative-of-the-apparitions-",
     "kind": "mary"
   },
@@ -98,7 +98,7 @@ export const chapters = [
   {
     "title": "The Global Rosary",
     "date": "May 2021 · Global prayer initiative",
-    "body": "The Rosary is prayed across cultures and continents. In May 2021, thirty Marian shrines joined a worldwide prayer initiative during the pandemic. The globe distinguishes places associated with the devotion’s development from documented examples of its later worldwide practice.",
+    "body": "The Rosary unites people across cultures and continents. In May 2021, Marian shrines joined a worldwide prayer initiative promoted under Pope Francis. Explore 32 locations in the published schedule, including the concluding gathering at the Vatican Gardens.",
     "source": "Vatican News · Worldwide Rosary initiative, May 2021",
     "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
     "kind": "globe"
@@ -117,7 +117,7 @@ export const locations = [
     "name": "Rome & Vatican · Papal teaching",
     "lat": 41.9022,
     "lon": 12.4537,
-    "body": "Papal teaching helped define and promote the Rosary: Pius V in 1569, Leo XIII in 1883, Paul VI in 1974, and John Paul II in 2002. This marker represents the teaching tradition, not the location where every document was composed.",
+    "body": "Papal teaching helped define and promote the Rosary: Pius V in 1569, Leo XIII in 1883, Paul VI in 1974, and John Paul II in 2002.",
     "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
     "id": "rome",
     "country": "Vatican City / Rome, Italy",
@@ -157,7 +157,7 @@ export const locations = [
     "name": "Cologne · Confraternity",
     "lat": 50.9333,
     "lon": 6.95,
-    "body": "Jacob Sprenger established a Rosary confraternity in Cologne in 1475, following Alan de la Roche’s promotion in the 1470s. This marks organized shared devotion, not the first origin of the Rosary.",
+    "body": "Jacob Sprenger established a Rosary confraternity in Cologne in 1475, following Alan de la Roche’s promotion in the 1470s. The confraternity brought people together in shared prayer and helped spread the devotion.",
     "url": "https://www.op.org/confraternity-of-the-most-holy-rosary/",
     "id": "cologne",
     "country": "Germany",
@@ -188,7 +188,7 @@ export const locations = [
     "name": "Toulouse · Dominican tradition",
     "lat": 43.6044,
     "lon": 1.4419,
-    "body": "Dominic and his companions settled in Toulouse in 1215; the community received papal confirmation in 1216. The later tradition connecting Dominic with the Rosary is devotional testimony, not proof that its complete modern form originated here.",
+    "body": "Dominic and his companions settled in Toulouse in 1215; the community received papal confirmation in 1216. The Dominican tradition continues to nurture devotion to the Rosary and contemplation of Christ with Mary.",
     "url": "https://www.newadvent.org/cathen/13184b.htm",
     "id": "toulouse",
     "country": "France",
@@ -225,7 +225,7 @@ export const locations = [
     "name": "Gulf of Patras · Lepanto",
     "lat": 38.25,
     "lon": 21.25,
-    "body": "The Holy League defeated the Ottoman fleet in this sea region. Pius V called for prayer, and Catholics associated the victory with Mary’s intercession. The commemoration of Our Lady of Victory led to the feast of the Holy Rosary; the battle was not an apparition.",
+    "body": "The Holy League defeated the Ottoman fleet in this sea region in 1571. Pius V called for prayer, and Catholics associated the victory with Mary’s intercession. The commemoration of Our Lady of Victory led to the feast of the Holy Rosary.",
     "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
     "id": "lepanto",
     "country": "Greece",
@@ -250,14 +250,14 @@ export const locations = [
     "name": "Cova da Iria · Fátima",
     "lat": 39.63166,
     "lon": -8.67332,
-    "body": "The accounts of Lúcia, Francisco and Jacinta describe a call to daily Rosary prayer and peace. Cova da Iria is the principal site of the reported Marian apparitions. Recognized private revelation does not add to the Church’s deposit of faith.",
+    "body": "In 1917, Lúcia, Francisco and Jacinta reported Marian apparitions at Cova da Iria. Their accounts describe a call to daily Rosary prayer, conversion and peace.",
     "url": "https://www.fatima.pt/en/pages/narrative-of-the-apparitions-",
     "id": "fatima",
     "country": "Portugal",
     "region": "Europe",
     "category": "devotion",
     "year": 1917,
-    "period": "1917 · Reported private revelation",
+    "period": "1917 · Cova da Iria",
     "precision": "Chapel of the Apparitions building point",
     "coordinateSource": "https://mapcarta.com/W159968550",
     "chapter": 9,
@@ -271,6 +271,10 @@ export const locations = [
       {
         "label": "Catechism · §67",
         "url": "https://www.vatican.va/archive/ENG0015/__PH.HTM"
+      },
+      {
+        "label": "Sanctuary of Our Lady of Fátima · Historical documentation",
+        "url": "https://www.fatima.pt/en/documentacao/"
       }
     ],
     "photo": "shrine-fatima-photo.jpg",
@@ -286,7 +290,7 @@ export const locations = [
     "name": "Antipolo · Peace and Good Voyage",
     "lat": 14.5877,
     "lon": 121.1767,
-    "body": "The Cathedral of Our Lady of Peace and Good Voyage led Rosary prayer for families in the May 2021 worldwide initiative. This documents modern practice, not the Rosary’s origins.",
+    "body": "The Cathedral of Our Lady of Peace and Good Voyage led Rosary prayer for families in the May 2021 worldwide initiative.",
     "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
     "id": "antipolo",
     "country": "Philippines",
@@ -316,7 +320,7 @@ export const locations = [
     "name": "Algiers · Our Lady of Africa",
     "lat": 36.8011,
     "lon": 3.0425,
-    "body": "The Basilica of Our Lady of Africa led the 2021 Rosary initiative for people living alone and those who had lost hope. Its inclusion documents this particular prayer event.",
+    "body": "The Basilica of Our Lady of Africa led Rosary prayer for people living alone and those who had lost hope during the May 2021 worldwide initiative.",
     "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
     "id": "algiers",
     "country": "Algeria",
@@ -346,7 +350,7 @@ export const locations = [
     "name": "Mexico City · Guadalupe Basilica",
     "lat": 19.4848,
     "lon": -99.1178,
-    "body": "The Guadalupe shrine led Rosary prayer for workers and entrepreneurs in the 2021 initiative. This specific event is the connection here; Marian devotion generally is not being equated with Rosary history.",
+    "body": "The Guadalupe shrine led Rosary prayer for workers and entrepreneurs in the May 2021 worldwide initiative.",
     "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
     "id": "mexico",
     "country": "Mexico",
@@ -376,7 +380,7 @@ export const locations = [
     "name": "Sydney · St Mary’s Cathedral",
     "lat": -33.8712,
     "lon": 151.2134,
-    "body": "St Mary’s Cathedral led Rosary prayer for victims of violence and human trafficking during the 2021 worldwide initiative. This is a modern example of shared devotion.",
+    "body": "St Mary’s Cathedral led Rosary prayer for victims of violence and human trafficking during the May 2021 worldwide initiative.",
     "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
     "id": "sydney",
     "country": "Australia",
@@ -407,71 +411,71 @@ export const mysteries = {
   "Joyful": [
     {
       "title": "The Annunciation",
-      "body": "Mary welcomes God’s call. Contemplate trust and willing service. Luke 1:26–38.",
+      "body": "Mary welcomes God’s call. Contemplate trust and willing service.",
       "reference": "Luke 1:26-38"
     },
     {
       "title": "The Visitation",
-      "body": "Mary visits Elizabeth; joy becomes an act of loving presence. Luke 1:39–45.",
+      "body": "Mary visits Elizabeth; joy becomes an act of loving presence.",
       "reference": "Luke 1:39-45"
     },
     {
       "title": "The Nativity",
-      "body": "Jesus is born in Bethlehem. Contemplate the humility of the Incarnation. Luke 2:1–20.",
+      "body": "Jesus is born in Bethlehem. Contemplate the humility of the Incarnation.",
       "reference": "Luke 2:1-20"
     },
     {
       "title": "The Presentation of Jesus",
-      "body": "Mary and Joseph bring Jesus to the Temple. Simeon recognizes the promised salvation. Luke 2:22–38.",
+      "body": "Mary and Joseph bring Jesus to the Temple. Simeon recognizes the promised salvation.",
       "reference": "Luke 2:22-38"
     },
     {
       "title": "The Finding of Jesus in the Temple",
-      "body": "Mary and Joseph find Jesus among the teachers. Contemplate seeking the Father’s will. Luke 2:41–50.",
+      "body": "Mary and Joseph find Jesus among the teachers. Contemplate seeking the Father’s will.",
       "reference": "Luke 2:41-50"
     }
   ],
   "Sorrowful": [
     {
       "title": "The Agony in the Garden",
-      "body": "Jesus prays in Gethsemane. Remain with him in trust amid suffering. Matthew 26:36–46.",
+      "body": "Jesus prays in Gethsemane. Remain with him in trust amid suffering.",
       "reference": "Matthew 26:36-46"
     },
     {
       "title": "The Scourging at the Pillar",
-      "body": "Jesus endures scourging. Pray for those subjected to cruelty and injustice. Mark 15:1–15.",
+      "body": "Jesus endures scourging. Pray for those subjected to cruelty and injustice.",
       "reference": "Mark 15:1-15"
     },
     {
       "title": "The Crowning with Thorns",
-      "body": "Christ’s kingship is mocked. Contemplate patient love and human dignity. Mark 15:16–20.",
+      "body": "Christ’s kingship is mocked. Contemplate patient love and human dignity.",
       "reference": "Mark 15:16-20"
     },
     {
       "title": "The Carrying of the Cross",
-      "body": "Jesus bears the Cross toward Calvary. Ask for courage to accompany those who suffer. Luke 23:26–31.",
+      "body": "Jesus bears the Cross toward Calvary. Ask for courage to accompany those who suffer.",
       "reference": "Luke 23:26-31"
     },
     {
       "title": "The Crucifixion of Jesus",
-      "body": "Jesus gives his life upon the Cross. Contemplate his saving love. John 19:16–30.",
+      "body": "Jesus gives his life upon the Cross. Contemplate his saving love.",
       "reference": "John 19:16-30"
     }
   ],
   "Glorious": [
     {
       "title": "The Resurrection of Jesus",
-      "body": "Christ rises from the dead. Contemplate the hope of new life. Matthew 28:1–10.",
+      "body": "Christ rises from the dead. Contemplate the hope of new life.",
       "reference": "Matthew 28:1–10"
     },
     {
       "title": "The Ascension of Jesus",
-      "body": "The risen Lord ascends to the Father and sends his disciples to witness. Acts 1:1–11.",
+      "body": "The risen Lord ascends to the Father and sends his disciples to witness.",
       "reference": "Acts 1:1-11"
     },
     {
       "title": "The Descent of the Holy Spirit",
-      "body": "The Spirit gathers and strengthens the Church at Pentecost. Acts 2:1–13.",
+      "body": "The Spirit gathers and strengthens the Church at Pentecost.",
       "reference": "Acts 2:1-13"
     },
     {
@@ -481,7 +485,7 @@ export const mysteries = {
     },
     {
       "title": "The Coronation of the Blessed Virgin Mary",
-      "body": "Mary is honored as Queen of heaven and earth, sharing her Son’s victory. Catechism §966; Revelation 12:1 provides traditional imagery.",
+      "body": "Mary is honored as Queen of heaven and earth, sharing her Son’s victory. Catechism §966; the Scripture below provides traditional imagery.",
       "reference": "Revelation 12:1-18"
     }
   ],

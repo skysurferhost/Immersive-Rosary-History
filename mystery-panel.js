@@ -1,0 +1,2 @@
+import {escapeText as e} from './photo-credits.js';
+export function mysteryPanel(m,group){const ref=m.scripture||m.reference;const citation=m.scriptureUrl?`<a href="${e(m.scriptureUrl)}" target="_blank" rel="noopener">${e(ref)} ↗</a>`:e(ref);return `<article class="mystery-panel"><div class="eyebrow">${e(group)} Mysteries</div><h2>${e(m.title)}</h2><p class="mystery-description">${e(m.body)}</p><p class="mystery-citation">${citation}</p><button class="pill" id="pray-mystery">Pray This Mystery</button></article>`;}

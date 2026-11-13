@@ -1,0 +1,558 @@
+[
+  {
+    "id": "shrine-st-peters",
+    "name": "St Peter’s Basilica (Madonna del Soccorso)",
+    "history": "St Peter’s is the Renaissance papal basilica in Vatican City. The May 2021 prayer schedule identifies the Madonna del Soccorso within the basilica as its opening Vatican destination.",
+    "historySource": "https://mapcarta.com/24884214",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/24884214"
+      },
+      {
+        "label": "Vatican News · Original May 2021 schedule",
+        "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html"
+      }
+    ]
+  },
+  {
+    "id": "shrine-walsingham",
+    "name": "The Catholic National Shrine and Basilica of Our Lady (Our Lady of Walsingham)",
+    "history": "The Catholic national shrine at Walsingham is situated at Houghton Saint Giles, outside the village itself. Its Slipper Chapel distinguishes this destination from the separate Anglican shrine in Walsingham.",
+    "historySource": "https://mapcarta.com/W387358850",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W387358850"
+      }
+    ]
+  },
+  {
+    "id": "shrine-elele",
+    "name": "The Sanctuary of Jesus the Saviour and Mother Mary",
+    "history": "The sanctuary at Elele belongs to the Diocese of Port Harcourt in Nigeria’s Rivers State. It is dedicated jointly to Jesus the Saviour and Mother Mary; the church directory records its history from 1985 and national-shrine designation in 2018.",
+    "historySource": "https://gcatholic.org/churches/africa/6566.htm",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://gcatholic.org/churches/africa/6566.htm"
+      }
+    ]
+  },
+  {
+    "id": "shrine-jasna-gora",
+    "name": "The Monastery of Jasna Góra (Black Madonna of Częstochowa)",
+    "history": "The Jasna Góra basilica forms the principal church of the monastery in Częstochowa, beside the Chapel of Our Lady. The Vatican prayer schedule identifies the monastery with the Black Madonna of Częstochowa.",
+    "historySource": "https://mapcarta.com/fr/W208061805",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/fr/W208061805"
+      },
+      {
+        "label": "Vatican News · Original May 2021 schedule",
+        "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html"
+      }
+    ]
+  },
+  {
+    "id": "shrine-nazareth",
+    "name": "The Basilica of the Annunciation",
+    "history": "The Catholic Basilica of the Annunciation in Nazareth commemorates Gabriel’s announcement to Mary that she would bear Jesus. It is distinct from the Greek Orthodox Church of the Annunciation elsewhere in the city.",
+    "historySource": "https://mapcarta.com/W97417380",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W97417380"
+      }
+    ]
+  },
+  {
+    "id": "shrine-namyang",
+    "name": "The Shrine of our Lady of the Rosary",
+    "history": "Namyang’s Catholic shrine is dedicated specifically to Our Lady of the Rosary. Its grounds lie in Hwaseong, in South Korea’s Gyeonggi Province; this is the Namyang destination named in the Vatican’s worldwide prayer schedule.",
+    "historySource": "https://mapcarta.com/W469635682",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W469635682"
+      },
+      {
+        "label": "Vatican News · Original May 2021 schedule",
+        "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html"
+      }
+    ]
+  },
+  {
+    "id": "shrine-aparecida",
+    "name": "The National Shrine of Our Lady of Aparecida",
+    "history": "The national shrine in Aparecida is dedicated to Our Lady of the Immaculate Conception Aparecida, Brazil’s principal patroness. The basilica is a cathedral as well as a Marian pilgrimage destination.",
+    "historySource": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Aparecida",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Aparecida"
+      }
+    ]
+  },
+  {
+    "id": "shrine-antipolo",
+    "name": "The Cathedral of Antipolo (Our Lady of Peace and Good Voyage)",
+    "history": "Antipolo Cathedral is dedicated to Our Lady of Peace and Good Voyage and is also known as Immaculate Conception Parish. The cathedral stands in Antipolo, in the Philippine province of Rizal.",
+    "historySource": "https://mapcarta.com/W94093055",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W94093055"
+      }
+    ]
+  },
+  {
+    "id": "shrine-lujan",
+    "name": "The Basilica of Luján (Our Lady of Luján)",
+    "history": "The basilica at Luján is dedicated to Our Lady of Luján, patroness of Argentina. It belongs to the Archdiocese of Mercedes-Luján, whose cathedral seat is in the neighboring city of Mercedes.",
+    "historySource": "https://mapcarta.com/W186577050",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W186577050"
+      }
+    ]
+  },
+  {
+    "id": "shrine-loreto",
+    "name": "The Basilica of the Holy House (Our Lady of Loreto)",
+    "history": "Loreto’s Basilica della Santa Casa encloses the Holy House, venerated in Catholic tradition as the home of the Holy Family. The shrine stands in Italy’s Marche region and is also known as the Pontifical Basilica of the Holy House.",
+    "historySource": "https://mapcarta.com/29102824",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/29102824"
+      }
+    ]
+  },
+  {
+    "id": "shrine-knock",
+    "name": "The Sanctuary of Our Lady of Knock",
+    "history": "Knock is a Marian pilgrimage shrine in County Mayo associated with the apparition reported by local witnesses in 1879. The shrine complex includes the Basilica of Our Lady, Queen of Ireland.",
+    "historySource": "https://mapcarta.com/W191789187",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W191789187"
+      }
+    ]
+  },
+  {
+    "id": "shrine-banneux",
+    "name": "The Shrine of Our Lady of Banneux (Virgin of the Poor)",
+    "history": "The sanctuary at Banneux is dedicated to Mary under the title Virgin of the Poor. Its church-directory entry identifies the pilgrimage grounds on Rue de l’Esplanade in Banneux, Belgium.",
+    "historySource": "https://www.egliseinfo.be/communaute/Bli/41/sanctuaire-notre-dame-des-pauvres",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://www.egliseinfo.be/communaute/Bli/41/sanctuaire-notre-dame-des-pauvres"
+      }
+    ]
+  },
+  {
+    "id": "shrine-algiers",
+    "name": "The Basilica of Our Lady of Africa",
+    "history": "Notre-Dame d’Afrique is a Catholic minor basilica in Bologhine, Algiers. Its hilltop setting overlooks the Mediterranean, giving the shrine a distinctive place above the city’s coastline.",
+    "historySource": "https://mapcarta.com/fr/17317934",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/fr/17317934"
+      }
+    ]
+  },
+  {
+    "id": "shrine-fatima",
+    "name": "The Sanctuary of Our Lady of Fátima",
+    "history": "The shrine at Cova da Iria preserves the accounts of Lúcia dos Santos, Francisco Marto and Jacinta Marto, who reported Marian apparitions in 1917 calling for daily Rosary prayer and peace.",
+    "historySource": "https://www.fatima.pt/en/pages/narrative-of-the-apparitions-",
+    "sourceType": "Official shrine narrative",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://www.fatima.pt/en/pages/narrative-of-the-apparitions-"
+      }
+    ]
+  },
+  {
+    "id": "shrine-vailankanni",
+    "name": "The Basilica of Our Lady of Health",
+    "history": "The Marian basilica at Vailankanni is dedicated to Our Lady of Good Health. Also known as the Sanctuary of Our Lady of Velankanni, it stands in the Tamil Nadu town whose name appears in these two common spellings.",
+    "historySource": "https://mapcarta.com/W672541959",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W672541959"
+      }
+    ]
+  },
+  {
+    "id": "shrine-medjugorje",
+    "name": "The Shrine of Our Lady of Medjugorje (Our Lady of Peace)",
+    "history": "The map marks Saint James’ parish church in Medjugorje, consecrated in 1969. This identifies the pilgrimage church itself, rather than Apparition Hill or a claimed apparition location.",
+    "historySource": "https://mapcarta.com/W1115592386",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W1115592386"
+      }
+    ]
+  },
+  {
+    "id": "shrine-sydney",
+    "name": "The Cathedral Church and Minor Basilica of the Immaculate Mother of God, Help of Christians (St Mary’s Cathedral)",
+    "history": "St Mary’s is the cathedral of Sydney’s Catholic archbishop. The first cathedral was destroyed by fire in 1865; the present cathedral belongs to the rebuilding associated with architect William Wilkinson Wardell.",
+    "historySource": "https://dictionaryofsydney.org/building/st_marys_cathedral",
+    "sourceType": "Archived local-history reference",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://dictionaryofsydney.org/building/st_marys_cathedral"
+      }
+    ]
+  },
+  {
+    "id": "shrine-washington",
+    "name": "The Basilica of the National Shrine of the Immaculate Conception (Washington, D.C.)",
+    "history": "Washington’s National Shrine is a Catholic minor basilica dedicated to the Immaculate Conception. It is a national Marian sanctuary in the United States capital.",
+    "historySource": "https://mapcarta.com/20621032",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/20621032"
+      }
+    ]
+  },
+  {
+    "id": "shrine-lourdes",
+    "name": "The Sanctuary of Our Lady of Lourdes",
+    "history": "The Lourdes sanctuary brings together the Grotto associated with Bernadette Soubirous and several basilicas. These include the Immaculate Conception, Our Lady of the Rosary, and Saint Pius X basilicas.",
+    "historySource": "https://mapcarta.com/es/N4958231645",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/es/N4958231645"
+      }
+    ]
+  },
+  {
+    "id": "shrine-ephesus",
+    "name": "Mother Mary's House",
+    "history": "The House of the Virgin Mary is a shrine on Mount Koressos near Ephesus and Selçuk. Its identification with Mary’s home belongs to devotional tradition; the place is visited by both Christians and Muslims.",
+    "historySource": "https://mapcarta.com/W1412797204",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W1412797204"
+      }
+    ]
+  },
+  {
+    "id": "shrine-el-cobre",
+    "name": "The National Shrine Basilica of Our Lady of Charity of El Cobre",
+    "history": "The basilica at El Cobre, near Santiago de Cuba, houses the image of Our Lady of Charity, patroness of Cuba. It is a national Marian shrine within the Archdiocese of Santiago de Cuba.",
+    "historySource": "https://en.wikipedia.org/wiki/National_Basilica_Sanctuary_of_the_Charity_del_Cobre",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://en.wikipedia.org/wiki/National_Basilica_Sanctuary_of_the_Charity_del_Cobre"
+      }
+    ]
+  },
+  {
+    "id": "shrine-nagasaki",
+    "name": "Immaculate Conception Cathedral (Our Lady of Nagasaki)",
+    "history": "Nagasaki’s Immaculate Conception Cathedral is commonly called Urakami Cathedral, after its district. It is also known as Saint Mary’s Cathedral and stands near the city’s Peace Park and Atomic Bomb Museum.",
+    "historySource": "https://mapcarta.com/W280652259",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W280652259"
+      }
+    ]
+  },
+  {
+    "id": "shrine-montserrat",
+    "name": "Santa Maria de Montserrat (Virgin of Montserrat)",
+    "history": "Santa Maria de Montserrat is a Benedictine abbey on the mountain of Montserrat in Catalonia. The monastery complex includes the Basilica of Our Lady of Montserrat and the Museum of Montserrat.",
+    "historySource": "https://mapcarta.com/36120134",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/36120134"
+      }
+    ]
+  },
+  {
+    "id": "shrine-notre-dame-du-cap",
+    "name": "The Basilica of Notre-Dame-du-Cap",
+    "history": "Notre-Dame-du-Cap is a Marian national shrine in Trois-Rivières, Quebec. Its basilica is also called Our Lady of the Cape, reflecting its setting in Cap-de-la-Madeleine.",
+    "historySource": "https://mapcarta.com/W66794334",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W66794334"
+      }
+    ]
+  },
+  {
+    "id": "shrine-nyaunglebin",
+    "name": "Our Lady of Lourdes",
+    "history": "The shrine of Our Lady of Lourdes in Nyaunglebin also serves as a parish. It belongs to the Bago zone of the Roman Catholic Archdiocese of Yangon in Myanmar.",
+    "historySource": "https://gcatholic.org/churches/asia-south/86835",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://gcatholic.org/churches/asia-south/86835"
+      }
+    ]
+  },
+  {
+    "id": "shrine-ta-pinu",
+    "name": "The Basilica of the National Shrine of the Blessed Virgin of Ta' Pinu",
+    "history": "Ta’ Pinu is a national Marian shrine and minor basilica near Għarb on Gozo. Its island setting distinguishes it from destinations on Malta’s larger neighboring island.",
+    "historySource": "https://mapcarta.com/W33779121",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W33779121"
+      }
+    ]
+  },
+  {
+    "id": "shrine-guadalupe",
+    "name": "The Basilica of Our Lady of Guadalupe",
+    "history": "The Basilica of Our Lady of Guadalupe stands at the foot of Tepeyac in Mexico City’s Gustavo A. Madero district. The mapped church is the new basilica, built in 1976, within the Guadalupe pilgrimage complex.",
+    "historySource": "https://mapcarta.com/34443152/Map",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/34443152/Map"
+      }
+    ]
+  },
+  {
+    "id": "shrine-zarvanytsia",
+    "name": "The Shrine of the Mother of God of Zarvanytsia",
+    "history": "Zarvanytsia’s Marian Spiritual Center is a gathering place for Ukrainian Greek Catholic pilgrimage. In July 2025 it hosted the thirtieth All-Ukrainian Pilgrimage, led in prayer by the head of the Ukrainian Greek Catholic Church.",
+    "historySource": "https://ugcc.ua/en/data/in-zarvanytsia-the-sky-is-open-just-like-the-heart-of-the-blessed-virgin-mary-to-the-prayers-of-each-of-us-his-beatitude-sviatoslav-1787/",
+    "sourceType": "Official Ukrainian Greek Catholic Church report",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://ugcc.ua/en/data/in-zarvanytsia-the-sky-is-open-just-like-the-heart-of-the-blessed-virgin-mary-to-the-prayers-of-each-of-us-his-beatitude-sviatoslav-1787/"
+      }
+    ]
+  },
+  {
+    "id": "shrine-altotting",
+    "name": "The Shrine of Our Lady of Altötting (Black Madonna of Altötting)",
+    "history": "Altötting’s Marian sanctuary is also known as the Chapel of Grace. It stands on Kapellplatz in the Bavarian pilgrimage town, close to the collegiate church of Saints Philip and James.",
+    "historySource": "https://mapcarta.com/W80328722",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W80328722"
+      }
+    ]
+  },
+  {
+    "id": "shrine-harissa",
+    "name": "The Shrine of Our Lady of Lebanon",
+    "history": "The shrine of Our Lady of Lebanon stands at Harissa and is distinguished by its large statue of Mary. It belongs to the Maronite Patriarchate and is administered by the Congregation of Maronite Lebanese Missionaries.",
+    "historySource": "https://en.wikipedia.org/wiki/Our_Lady_of_Lebanon",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Lebanon"
+      }
+    ]
+  },
+  {
+    "id": "shrine-pompeii",
+    "name": "The Pontifical Shrine of the Blessed Virgin of the Holy Rosary of Pompeii",
+    "history": "Pompeii’s pontifical Rosary shrine was co-founded by Bartolo Longo and his wife, Countess Mariana di Fusco. Dedicated to the Blessed Virgin of the Rosary, it also serves as a cathedral and minor basilica.",
+    "historySource": "https://mapcarta.com/W28778029",
+    "sourceType": "Secondary geographic / church directory context",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://mapcarta.com/W28778029"
+      }
+    ]
+  },
+  {
+    "id": "shrine-vatican-gardens",
+    "name": "The Vatican Gardens",
+    "history": "The Vatican Gardens formed the concluding destination of the May 2021 worldwide prayer initiative. The schedule assigns 31 May to prayer for an end to the pandemic and the renewal of social and economic life, rather than listing a separate parish shrine here.",
+    "historySource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "sourceType": "Vatican News original schedule",
+    "status": "Source-supported specific place context; not an exhaustive founding history",
+    "contextHeading": "About this place",
+    "verifiedOn": "2026-11-09",
+    "scheduleSource": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html",
+    "references": [
+      {
+        "label": "Place context source",
+        "url": "https://www.vaticannews.va/en/church/news/2021-05/shrines-around-the-world-linked-for-recitation-of-the-rosary.html"
+      }
+    ]
+  }
+]

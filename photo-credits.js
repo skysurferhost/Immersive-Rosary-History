@@ -1,0 +1,4 @@
+export const escapeText=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const names={rome:'St Peter’s Basilica, Vatican City',cologne:'Cologne Cathedral',toulouse:'Church of the Jacobins, Toulouse',fatima:'Basilica of Our Lady of the Rosary, Fátima',antipolo:'Cathedral of Antipolo (Our Lady of Peace and Good Voyage)',algiers:'Basilica of Our Lady of Africa, Algiers',mexico:'Basilica of Our Lady of Guadalupe, Mexico City',sydney:'St Mary’s Cathedral, Sydney'};
+export const photoName=l=>names[l.id]||l.name;
+export function photoCaption(l){return `<figcaption><span class="photo-place">${escapeText(photoName(l))}</span><span class="photo-attribution"><a href="${escapeText(l.photoSource)}" target="_blank" rel="noopener">${escapeText(l.photoCredit)}</a> · <a href="${escapeText(l.photoLicenseUrl)}" target="_blank" rel="noopener">${escapeText(l.photoLicense)}</a></span></figcaption>`;}

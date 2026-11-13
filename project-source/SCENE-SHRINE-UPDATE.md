@@ -1,0 +1,32 @@
+# Scene corrections and worldwide shrine archive
+
+Updated 8 November 2026. Existing site, historical chapters, prayer guide and owner-private audience preserved.
+
+## Scene corrections
+
+- Annunciation and Fátima: the full original painting no longer crossfades over the separated figures. Each scene now has one figure composition against its matching environment. Adjacent chapter visibility intervals meet at zero opacity, preventing unintended inter-chapter picture overlap in either scroll direction.
+- Lepanto: the imported galley's bounding-box centre was being placed at sea level, submerging much of the vessel. Each normalized model is now positioned from its lower bound with a 0.16-unit draft, while preserving proportions. The centre ship is brought forward toward the maritime focal area. Wave amplitude is restrained to 0.06 units combined; fallback hulls also receive a waterline offset. No artificial bobbing rotates the vessel through the sea surface.
+- Marian Psalter: replaced the malformed contemporary-looking beads with a medieval counting cord illustration; removed the separate decorative forty-bead mesh. The text continues to explain gradual historical development, including Dominic of Prussia.
+- Across the Centuries: Mexico c.1750 and France c.1880 occupy the same composition at separate, non-overlapping scroll moments. Their fades reverse with scrolling.
+- Fátima: removed both primitive trees and the scattered low-poly stones. Existing Portuguese countryside and the three shepherd children remain.
+- John Paul II: replaced the five gold spheres with five distinct circular illustrations, thin antique-gold borders, and individually accessible buttons. Desktop diameter is 62px (about 15% above a 54px design baseline), 50px on narrow screens and 46px in landscape. Unlike the previous world-space spheres, these maintain usable touch targets. Hover/focus gives a description; tap pins it, and tapping again closes it.
+- Universe: the 7,000 stars now retain a visible pixel size and render in a separate full-window sky pass before the chapter or exploration viewport. The restrained dust layer persists. A native SVG starfield also supplies the non-WebGL fallback. It does not depend on new generated space artwork.
+- Camera: retained the established central focal paths and reversible continuous interpolation. Chapter text fades during the close approach/exit to prevent artwork passing through text. The chronological route and final prayer invitation remain intact.
+
+## Globe and source verification
+
+The original nine curated locations remain in Historical Development. A separate **30 Shrines Around the World** tab contains all **32** Vatican News schedule entries, with both May 1 destinations, Pompeii on May 30, and the Vatican Gardens conclusion on May 31. The official name is retained and the count discrepancy explained. This is explicitly an archive of May 2021, not a live schedule.
+
+Each entry stores a unique ID, source name, locality, country, continent, date, prayer intention, latitude/longitude, geographic source, coordinate precision, and event type. The Vatican Gardens is separately identified as the concluding event. Site/complex coordinates are not claimed to locate a particular altar or ceremony. Sources and precision appear in each information panel; the complete geographic audit is in SHRINE-COORDINATES.md. No unlicensed shrine photos were introduced.
+
+The two modes preserve their own search, continent filter, order and selection. Only the active dataset's markers and decorative rings are visible. Selection rotates the verified geographic point toward the camera, highlights it, and replaces the single information panel. Closely projected markers offer exact destination choices instead of making the nearest entry inaccessible. Back-facing markers cannot be selected through the Earth. Globe interaction uses its own rotation controller and suspends the historical camera.
+
+Primary historical references retained: John Paul II, Rosarium Virginis Mariae (16 October 2002); Paul VI, Marialis Cultus (2 February 1974); Dominican Order, Confraternity of the Most Holy Rosary. Later Dominican devotional tradition remains distinguished from evidence for the Rosary's gradual development. The new illustrations are labelled artistic reconstructions, not authentic historical objects or photographs.
+
+## Validation and limits
+
+All six Node validation suites pass: existing prayer content and 59-bead topology; 75 prayer steps across 22 stages; all 14 chapters; 20 mysteries; historical marker focus/picking; continuous reversible camera paths; four-viewport focal bounds; and the new 32-entry archive, date coverage, provenance, all-destination focus/picking, hidden inactive markers, nearby Vatican selection, mutually exclusive imagery, and absence of Fátima trees.
+
+Browser checks used 390×844, 844×390, 768×1024 and 1440×900 viewports. Verified image loading and Luminous selection, shrine searches, continent filters, keyboard tab switching, selection persistence, original history mode and date/intention display. A landscape hint overlap found during review was removed. The fallback remains usable and now retains stars.
+
+**Verification limit:** this cloud browser reports GL_VENDOR/GL_RENDERER Disabled and cannot create a WebGL context. The supplied recording was visually audited, and geometry, state, camera and selection mathematics were tested directly. Final GPU appearance of the corrected ship waterline, scene blending, star rendering, native touch dragging and frame rate on real phones is not certified by these checks. This report does not claim that visual GPU QA passed.
