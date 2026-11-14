@@ -42,7 +42,7 @@ export const chapters = [
   {
     "title": "Pope St. Pius V",
     "date": "1569 · The traditional Rosary",
-    "body": "Consueverunt Romani Pontifices gave authoritative expression to the traditional Rosary: 150 Hail Marys, Our Fathers, and meditation on Christ’s life. The traditional fifteen mysteries comprise the Joyful, Sorrowful, and Glorious cycles.",
+    "body": "Consueverunt Romani Pontifices gave authoritative expression to a devotion shaped through centuries of prayer. The traditional fifteen-decade Rosary consists of 150 Hail Marys, fifteen Our Fathers, and a Glory Be after each decade, accompanied by meditation on the Joyful, Sorrowful, and Glorious Mysteries of Christ and His Blessed Mother.",
     "source": "English Dominicans · The Rosary and Pius V",
     "url": "https://english.op.org/about-us/rosary/what-is-the-rosary/",
     "kind": "document"
@@ -50,7 +50,7 @@ export const chapters = [
   {
     "title": "Lepanto and Our Lady of the Rosary",
     "date": "October 7, 1571",
-    "body": "As the Holy League faced the Ottoman fleet at Lepanto, Pius V encouraged prayer. Catholics associated the victory with Mary’s intercession. The commemoration of Our Lady of Victory became linked to the feast of the Holy Rosary.",
+    "body": "As the Holy League faced the Ottoman fleet at Lepanto, Pope St. Pius V encouraged prayer. Catholics associated the victory with Mary’s intercession. The commemoration of Our Lady of Victory became linked to the feast of the Holy Rosary.",
     "source": "Leo XIII · Supremi Apostolatus Officio, 3–4",
     "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
     "kind": "ship"
@@ -117,7 +117,7 @@ export const locations = [
     "name": "Rome & Vatican · Papal teaching",
     "lat": 41.9022,
     "lon": 12.4537,
-    "body": "Papal teaching helped define and promote the Rosary: Pius V in 1569, Leo XIII in 1883, Paul VI in 1974, and John Paul II in 2002.",
+    "body": "Papal teaching helped define and promote the Rosary: Pope St. Pius V in 1569, Leo XIII in 1883, Paul VI in 1974, and John Paul II in 2002.",
     "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
     "id": "rome",
     "country": "Vatican City / Rome, Italy",
@@ -225,7 +225,7 @@ export const locations = [
     "name": "Gulf of Patras · Lepanto",
     "lat": 38.25,
     "lon": 21.25,
-    "body": "The Holy League defeated the Ottoman fleet in this sea region in 1571. Pius V called for prayer, and Catholics associated the victory with Mary’s intercession. The commemoration of Our Lady of Victory led to the feast of the Holy Rosary.",
+    "body": "The Holy League defeated the Ottoman fleet in this sea region in 1571. Pope St. Pius V called for prayer, and Catholics associated the victory with Mary’s intercession. The commemoration of Our Lady of Victory led to the feast of the Holy Rosary.",
     "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
     "id": "lepanto",
     "country": "Greece",
@@ -407,92 +407,92 @@ export const locations = [
     "photoCaption": "Sydney · St Mary’s Cathedral · Australia"
   }
 ];
-export const mysteries = {
+export const mysteries ={
   "Joyful": [
     {
       "title": "The Annunciation",
-      "body": "Mary welcomes God’s call. Contemplate trust and willing service.",
+      "body": "The angel Gabriel announces that Mary will conceive Jesus, the Son of God, by the power of the Holy Spirit, and Mary freely accepts God's will. We contemplate the Incarnation: the eternal Son becomes man for our salvation, welcomed by Mary's faithful assent.",
       "reference": "Luke 1:26-38"
     },
     {
       "title": "The Visitation",
-      "body": "Mary visits Elizabeth; joy becomes an act of loving presence.",
+      "body": "Mary carries Jesus in her womb to visit Elizabeth, who, filled with the Holy Spirit, recognizes her as the mother of her Lord; John leaps for joy in Elizabeth's womb. We contemplate Christ's hidden presence and the joy Mary brings as she shares God's gift with others.",
       "reference": "Luke 1:39-45"
     },
     {
       "title": "The Nativity",
-      "body": "Jesus is born in Bethlehem. Contemplate the humility of the Incarnation.",
+      "body": "Mary gives birth to Jesus Christ in Bethlehem and lays Him in a manger, where the shepherds come to adore Him. We contemplate the humility of the Incarnation and the Father's love in giving us His Son, our Savior.",
       "reference": "Luke 2:1-20"
     },
     {
       "title": "The Presentation of Jesus",
-      "body": "Mary and Joseph bring Jesus to the Temple. Simeon recognizes the promised salvation.",
+      "body": "Mary and Joseph present Jesus to the Lord in the Temple, where Simeon and Anna recognize the promised Savior. Simeon also foretells the sorrow that will pierce Mary's heart. We contemplate Christ offered to the Father and Mary's faithful participation in His saving mission.",
       "reference": "Luke 2:22-38"
     },
     {
       "title": "The Finding of Jesus in the Temple",
-      "body": "Mary and Joseph find Jesus among the teachers. Contemplate seeking the Father’s will.",
+      "body": "After three days of searching, Mary and Joseph find the twelve-year-old Jesus in the Temple, listening to the teachers and asking them questions. He reveals His unique relationship with His heavenly Father. We contemplate the Son's devotion to His Father's will and seek Him with Mary's persevering faith.",
       "reference": "Luke 2:41-50"
     }
   ],
   "Sorrowful": [
     {
       "title": "The Agony in the Garden",
-      "body": "Jesus prays in Gethsemane. Remain with him in trust amid suffering.",
+      "body": "In Gethsemane, Jesus prays in anguish as His Passion approaches, while Peter, James, and John struggle to keep watch. He freely accepts the Father's will. We contemplate His obedient love and unite our prayers and sufferings with His offering for our salvation.",
       "reference": "Matthew 26:36-46"
     },
     {
       "title": "The Scourging at the Pillar",
-      "body": "Jesus endures scourging. Pray for those subjected to cruelty and injustice.",
+      "body": "Pilate has Jesus scourged before handing Him over to be crucified. The innocent Savior willingly endures the suffering and humiliation of His Passion out of love for us. We contemplate the cost of our redemption and turn to Him with gratitude and sorrow for our sins.",
       "reference": "Mark 15:1-15"
     },
     {
       "title": "The Crowning with Thorns",
-      "body": "Christ’s kingship is mocked. Contemplate patient love and human dignity.",
+      "body": "The soldiers clothe Jesus in purple, press a crown of thorns upon His head, and mock Him as king. We contemplate the true King, whose majesty is revealed in self-giving love, and ask for the grace to remain faithful to Him amid humiliation and suffering.",
       "reference": "Mark 15:16-20"
     },
     {
       "title": "The Carrying of the Cross",
-      "body": "Jesus bears the Cross toward Calvary. Ask for courage to accompany those who suffer.",
+      "body": "Jesus bears His Cross toward Calvary, and Simon of Cyrene is compelled to help carry it; Jesus also addresses the women who mourn for Him. We contemplate His loving perseverance on the way to His saving sacrifice and ask for strength to follow Him faithfully.",
       "reference": "Luke 23:26-31"
     },
     {
       "title": "The Crucifixion of Jesus",
-      "body": "Jesus gives his life upon the Cross. Contemplate his saving love.",
+      "body": "Jesus is crucified at Calvary and gives His life for our salvation; Mary and the beloved disciple stand near His Cross. He entrusts them to one another before completing His earthly mission. We contemplate His redeeming sacrifice and stand with Mary in grateful love before the crucified Savior.",
       "reference": "John 19:16-30"
     }
   ],
   "Glorious": [
     {
       "title": "The Resurrection of Jesus",
-      "body": "Christ rises from the dead. Contemplate the hope of new life.",
+      "body": "Jesus rises bodily from the dead, and Mary Magdalene and the other Mary encounter Him after finding the empty tomb. We contemplate His victory over sin and death, the foundation of our faith and the promise of our own resurrection in Him.",
       "reference": "Matthew 28:1–10"
     },
     {
       "title": "The Ascension of Jesus",
-      "body": "The risen Lord ascends to the Father and sends his disciples to witness.",
+      "body": "Forty days after His Resurrection, Jesus ascends into heaven before His apostles, promising them the power of the Holy Spirit for their mission. We contemplate the glorified Lord at the Father's right hand and place our hope in the heavenly life He opens to us.",
       "reference": "Acts 1:1-11"
     },
     {
       "title": "The Descent of the Holy Spirit",
-      "body": "The Spirit gathers and strengthens the Church at Pentecost.",
+      "body": "At Pentecost, the Holy Spirit descends upon the apostles gathered in prayer with Mary and the other disciples, filling them with power to proclaim Christ. We contemplate the Spirit giving life to the Church and ask Him to deepen our faith and strengthen us to bear witness to Jesus.",
       "reference": "Acts 2:1-13"
     },
     {
       "title": "The Assumption of Mary",
-      "body": "Catholic faith celebrates Mary received, body and soul, into heavenly glory. Catechism §966; this mystery is not a directly narrated Gospel event.",
+      "body": "We contemplate the Blessed Virgin Mary being assumed, body and soul, into heavenly glory at the end of her earthly life. Her Assumption reveals the glory God has bestowed upon her and strengthens our hope in the resurrection and eternal life.",
       "reference": "Luke 1:46-55"
     },
     {
       "title": "The Coronation of the Blessed Virgin Mary",
-      "body": "Mary is honored as Queen of heaven and earth, sharing her Son’s victory. Catechism §966; the Scripture below provides traditional imagery.",
+      "body": "We contemplate Mary crowned as Queen of Heaven and Earth, exalted by God and united with the glory of her Son, Jesus Christ. As our heavenly Mother and Queen, she continues to intercede for us and lead us closer to her Son.",
       "reference": "Revelation 12:1-18"
     }
   ],
   "Luminous": [
     {
       "title": "The Baptism of Jesus in the Jordan",
-      "body": "Jesus is baptized by John the Baptist in the Jordan River. The Holy Spirit descends upon Him, and the Father reveals Jesus as His beloved Son, manifesting the mystery of the Holy Trinity.",
+      "body": "Jesus is baptized by John the Baptist in the Jordan River. The Holy Spirit descends upon Him, and the Father reveals Jesus as His beloved Son, manifesting the mystery of the Holy Trinity. We contemplate the revelation of the Trinity and the grace of our own Baptism, through which we become children of God.",
       "reference": "Matthew 3:13–17",
       "scripture": "Matthew 3:13–17",
       "scriptureUrl": "https://bible.usccb.org/bible/matthew/3",
@@ -500,7 +500,7 @@ export const mysteries = {
     },
     {
       "title": "The Wedding Feast at Cana",
-      "body": "At Mary's intercession, Jesus transforms water into wine, performing His first public sign. Mary directs the servants to obey Him, and through this miracle Jesus reveals His glory, leading His disciples to believe in Him.",
+      "body": "At Mary's intercession, Jesus transforms water into wine, performing His first public sign. Mary directs the servants to obey Him, and through this miracle Jesus reveals His glory, leading His disciples to believe in Him. We contemplate His power and Mary's intercession, asking for faith to do whatever He tells us.",
       "reference": "John 2:1-11",
       "scripture": "John 2:1–11",
       "scriptureUrl": "https://bible.usccb.org/bible/john/2",
@@ -508,7 +508,7 @@ export const mysteries = {
     },
     {
       "title": "The Proclamation of the Kingdom of God",
-      "body": "Jesus proclaims the Kingdom of God and calls all people to repentance and faith in the Gospel. Through His preaching, forgiveness, and mercy, He invites sinners to conversion and new life in God.",
+      "body": "Jesus proclaims the Kingdom of God and calls all people to repentance and faith in the Gospel. Through His preaching, forgiveness, and mercy, He invites sinners to conversion and new life in God. We contemplate His saving mercy and ask for hearts ready to receive His Kingdom through repentance and faith.",
       "reference": "Mark 1:14-15",
       "scripture": "Mark 1:14–15",
       "scriptureUrl": "https://bible.usccb.org/bible/mark/1",
@@ -516,7 +516,7 @@ export const mysteries = {
     },
     {
       "title": "The Transfiguration",
-      "body": "Jesus reveals His divine glory before Peter, James, and John. Moses and Elijah appear with Him, and the Father's voice calls the disciples to listen to His beloved Son.",
+      "body": "Jesus reveals His divine glory before Peter, James, and John. Moses and Elijah appear with Him, and the Father's voice calls the disciples to listen to His beloved Son. We contemplate the glory of the Son and ask for faith to listen to Him and follow Him through the Cross to the Resurrection.",
       "reference": "Matthew 17:1-8",
       "scripture": "Matthew 17:1–8",
       "scriptureUrl": "https://bible.usccb.org/bible/matthew/17",
@@ -524,7 +524,7 @@ export const mysteries = {
     },
     {
       "title": "The Institution of the Eucharist",
-      "body": "At the Last Supper, Jesus institutes the Holy Eucharist, giving His Body and Blood under the appearances of bread and wine as the sacrament of His saving love.",
+      "body": "At the Last Supper, Jesus institutes the Holy Eucharist, giving His Body and Blood under the appearances of bread and wine as the sacrament of His saving love. We contemplate His Real Presence and the sacrifice made sacramentally present in the Mass, approaching Holy Communion with faith and gratitude.",
       "reference": "Matthew 26:26-28",
       "scripture": "Matthew 26:26–28",
       "scriptureUrl": "https://bible.usccb.org/bible/matthew/26",
